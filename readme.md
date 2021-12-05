@@ -1,2 +1,2 @@
 # Expanded Storage Issue Tracker and Localization Store
-I am currently only maintaining the 1.17.1 version of Expanded Storage however updates to the 1.16.5 version may still be attempted before 1.18 releases.
+I am currently only maintaining the 1.18 and 1.17.1 version of Expanded Storage however an update to the 1.16.5 version is planned but my time is limited.
